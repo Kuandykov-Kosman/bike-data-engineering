@@ -1,4 +1,4 @@
-from extract import extract_data
+from src.extract import extract_data
 
 
 def transform_data(rides):
